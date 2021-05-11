@@ -32,5 +32,8 @@ For example:
 
 will clean and restore volume named _my-docker-volume_ from archive file _/backup-data/archive-file.tar.gz_
 
+# Credits
+
+Based on this repository https://bitbucket.org/scorb/de.scorban.demo.wordpress/src/master/docker-volume-backup/
 
 ## Blog post: [Auto-Backup fÃ¼r Docker Volumes](http://scorban.de/2018/02/06/auto-backup-fuer-docker-volumes)
